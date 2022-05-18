@@ -1,4 +1,4 @@
-# Grand Oral : Architecture du véhicule
+# Grand Oral : Architecture du véhicule[color=#26B260]
 ### Problématique : Quels paramètres pouvons nous modifier et comment les changer sur l'architecture d'un véhicule pour obtenir un gain d'accélération ?
 ## Plan :
 - Aérodynamique

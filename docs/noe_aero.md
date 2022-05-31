@@ -20,4 +20,6 @@ On va finir cette partie théorique par l'ajout optionnel d'un aileron, tout d'a
 ### Modélisation :
 Afin de pouvoir réaliser notre voiture, il fallait tout d'abord modéliser notre voiture sur Onshape. On a dû tout d'abord modéliser le bloc moteur et le bloc de balsa dans lequel on viendrait tailler le véhicule afin d'établir des limites de taille. Ensuite, on est passé à la réalisation de la voiture et des roues, mais je ne m'attarderai que sur la voiture étant donné que je ne traite pas de l'adhérence. On a donc veillé à bien respecter tous les critères cités précédemment pour avoir les forces de trainée et de portance les plus adéquats. C'est à dire une forme se rapprochant de celle d'une goutte coupée en deux et d'avoir une hauteur minime. Cependant il reste l'aileron qu'on ne peut pas rajouter à la voiture sans le tester. C'est une des raisons pour lesquelles on va transférer notre voiture sur Solidworks.
 ### Tests :
-Pour cette partie de tests, on va la séparer en 2 parties, la première on voit les critères de forces aérodynamiques sans aileron puis avec aileron, pour mieux saisir son impact.
+Pour cette partie de tests, on va la séparer en 2 parties, la première on voit les critères de forces aérodynamiques sans aileron puis avec aileron, pour mieux saisir son impact. 
+#### Sans aileron
+[Nat](noe_voitureeeee_trainee.png)

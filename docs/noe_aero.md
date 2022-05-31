@@ -22,4 +22,4 @@ Afin de pouvoir réaliser notre voiture, il fallait tout d'abord modéliser notr
 ### Tests :
 Pour cette partie de tests, on va la séparer en 2 parties, la première on voit les critères de forces aérodynamiques sans aileron puis avec aileron, pour mieux saisir son impact. 
 #### Sans aileron
-[Nat](noe_voitureeeee_trainee.png)
+![Nat](noe_voitureeeee_trainee.png)

@@ -22,4 +22,6 @@ Afin de pouvoir réaliser notre voiture, il fallait tout d'abord modéliser notr
 ### Tests :
 Pour cette partie de tests, on va la séparer en 2 parties, la première on voit les critères de forces aérodynamiques sans aileron puis avec aileron, pour mieux saisir son impact. 
 #### Sans aileron
-![Nat](noe_voitureeeee_trainee.png)
+D'apres WorkFlow simulation qui est un complément de solidworks on a pu voir les lignes de courants qui s'appliquent sur la voiture et on remarque que la force appliquée est plus élevée sur l'arrière de la voiture ce qui provoque un soulevement du véhicule.
+![modélisation](noe_voitureeeee_trainee.png)
+Et aussi d'après cette simulation, la valeur moyenne de la trainée est de 1,568 N, soit une bonne trainée mais elle pourrait être améliorée avec une meilleure forme.

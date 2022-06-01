@@ -4,8 +4,9 @@
 - Introduction
 - Partie Théorique
 - Application
+- Conclusion
 ## Introduction :
-Bonjour, je vais vous parler pour mon sujet de Grand Oral de l'aérodynamique. Tout d'abord, pourquoi ce sujet ? Dans le cadre d'un projet de SI qui s'intitule "course en cours", j'ai dû avec mon équipe, créer une voiture miniature et élaborer un stand, des tenues,... On s'était donc réparti les rôles et je me chargeais de l'architecture et du design du projet. Cette partie était utile pour le coté visuel mais aussi pour son impact sur l'aérodynamique et la répartition des charges, permettant d'augmenter l'accélération. Comme dit précédemment, je compte aborder le thème de l'aérodynamique et c'est pour ça que je vais vous dire en quoi l'étude de l'aérodynamique permet elle un gain d'accélération ?
+Bonjour, je vais vous parler pour mon sujet de Grand Oral de l'aérodynamique. Tout d'abord, pourquoi ce sujet ? Dans le cadre d'un projet de SI qui s'intitule "course en cours", j'ai dû avec mon équipe, créer une voiture miniature et élaborer un stand, des tenues,... On s'était donc réparti les rôles et je me chargeais de l'architecture et du design du projet. Cette partie était utile pour le coté visuel mais aussi pour son impact sur l'aérodynamique et la répartition des charges. Comme dit précédemment, je compte aborder le thème de l'aérodynamique cependant est ce que l'étude de l'aérodynamique permet d'avoir un gain d'accélération dans le cadre de course en cours ?
 Pour travailler sur l'aérodynamique, il faut étudier la force de trainée qui s'applique sur l'axe $\overrightarrow{x}$, et la force de portance (sur l'axe $\overrightarrow{y}$) ce sont les forces appliquées sur le véhicule par le fluide dans lequel il se déplace. Il faut tout d'abord établir l'équation de la trainée qui se définit par la trainée est égale a la moitié du coefficient de trainée fois la masse volumique fois le carré de la vitesse fois la surface de référence. Et pour la portance, c'est la même formule en remplaçant le coefficient de trainée par le coefficient de portance. On va donc étudier les variables afin de minimiser la force de trainée et de portance :
 ## Partie théorique :
 ### Coefficient de Trainée :
@@ -22,6 +23,8 @@ Afin de pouvoir réaliser notre voiture, il fallait tout d'abord modéliser notr
 ### Tests :
 Pour cette partie de tests, on va la séparer en 2 parties, la première on voit les critères de forces aérodynamiques sans aileron puis avec aileron, pour mieux saisir son impact. 
 #### Sans aileron
-D'apres WorkFlow simulation qui est un complément de solidworks on a pu voir les lignes de courants qui s'appliquent sur la voiture et on remarque que la force appliquée est plus élevée sur l'arrière de la voiture ce qui provoque un soulevement du véhicule.
+D'apres WorkFlow simulation qui est un complément de solidworks on a pu voir les lignes de courants qui s'appliquent sur la voiture et on remarque que la force appliquée est plus élevée sur l'arrière de la voiture ce qui provoque un soulèvement du véhicule.
 ![modélisation](noe_voitureeeee_trainee.png)
-Et aussi d'après cette simulation, la valeur moyenne de la trainée est de 0.115 N, soit une bonne trainée mais elle pourrait encore être améliorée avec une meilleure forme.
+Et aussi d'après cette simulation, la valeur moyenne de la trainée est de 0.115 N pour une vitesse moyenne de 7,5 m/s, ça parait être une bonne trainée mais c'est parce que la vitesse est tres peu élevée et c'est un element important etant donné que le carré de la vitesse rentre en compte. cependant si on calcule le coefficient de on voit qu'il est de 0.46 soit tres proche de celui d'une sphère, soit un très mauvais coefficient de trainée.
+## Conlcusion
+comparer avec les autres forces en jeu. repondre a la problematique. ouverture sur l'adhérence

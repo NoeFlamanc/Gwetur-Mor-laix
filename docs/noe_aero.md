@@ -24,4 +24,4 @@ Pour cette partie de tests, on va la séparer en 2 parties, la première on voit
 #### Sans aileron
 D'apres WorkFlow simulation qui est un complément de solidworks on a pu voir les lignes de courants qui s'appliquent sur la voiture et on remarque que la force appliquée est plus élevée sur l'arrière de la voiture ce qui provoque un soulevement du véhicule.
 ![modélisation](noe_voitureeeee_trainee.png)
-Et aussi d'après cette simulation, la valeur moyenne de la trainée est de 1,568 N, soit une bonne trainée mais elle pourrait être améliorée avec une meilleure forme.
+Et aussi d'après cette simulation, la valeur moyenne de la trainée est de 0.115 N, soit une bonne trainée mais elle pourrait encore être améliorée avec une meilleure forme.

@@ -26,5 +26,5 @@ Pour cette partie de tests, on va la séparer en 2 parties, la première on voit
 D'apres WorkFlow simulation qui est un complément de solidworks on a pu voir les lignes de courants qui s'appliquent sur la voiture et on remarque que la force appliquée est plus élevée sur l'arrière de la voiture ce qui provoque un soulèvement du véhicule.
 ![modélisation](noe_voitureeeee_trainee.png)
 Et aussi d'après cette simulation, la valeur moyenne de la trainée est de 0.115 N pour une vitesse moyenne de 7,5 m/s, ça parait être une bonne trainée mais c'est parce que la vitesse est tres peu élevée et c'est un element important etant donné que le carré de la vitesse rentre en compte. cependant si on calcule le coefficient de on voit qu'il est de 0.46 soit tres proche de celui d'une sphère, soit un très mauvais coefficient de trainée.
-## Conlcusion
+## Conclusion
 comparer avec les autres forces en jeu. repondre a la problematique. ouverture sur l'adhérence
